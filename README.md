@@ -22,7 +22,7 @@ This project is a **Power BI dashboard** that visualizes air quality data across
 4. **Publish to Power BI Service**: Share insights online with stakeholders.
 
 ## Screenshot
-![Image](https://github.com/user-attachments/assets/9eca04a3-e914-4efb-98fb-4f031ea56193)
+![Image](https://github.com/user-attachments/assets/b8555b2f-70b0-4471-92f1-466856523dee)
 
 ## Future Enhancements
 - Integration with real-time air quality APIs.
